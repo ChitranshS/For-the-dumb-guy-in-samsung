@@ -1,4 +1,4 @@
-#  What is repo about?
+#  What is this repo about?
 Well I had a interview recently at Samsung [Unimportant-Subsidiary] and I was asked to do some ML algorithms from the scratch without using libraries and that too on paper.
 According to that dumb guy If I can't do this I am not qualified to apply for ML Roles.
 At the time I am writing this I am interning at 2 places together and managing both of them
