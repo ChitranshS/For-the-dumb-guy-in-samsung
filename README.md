@@ -8,6 +8,8 @@ At the time I am writing this I am interning at 2 places together and managing b
 Both are decently paid internships but according to the 'dumb samsung guy' I don't know anything about ML or maybe I just hurt his ego.
 
 # Topics in this repo
-I plan to push algorithms starting from regression to GANs from scratch (Once I am done with this I'll send it to the dumb samsung guy)
+I plan to push algorithms starting from regression to GANs from scratch 
+
+(Once I am done with this I'll send it to the dumb samsung guy)
 - Topic 1
 - Topic 2
